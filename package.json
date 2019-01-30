@@ -89,7 +89,7 @@
     "lint-staged": "8.1.1",
     "memfs": "2.15.0",
     "nock": "10.0.6",
-    "prettier": "1.16.1",
+    "prettier": "1.16.2",
     "rimraf": "^2.6.3",
     "style-loader": "0.23.1",
     "ts-jest": "23.10.5",
